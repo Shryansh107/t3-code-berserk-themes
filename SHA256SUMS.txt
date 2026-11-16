@@ -1,2 +1,2 @@
 ae6bc8e74ca16ee27bb105ce46bc165c4c96cd25f4cb91f670e356e8c4f4b16f  themes/berserk-eclipse.json
-0d100b8e150b411801f713b64fe5d99311fa46b54330bf172ce67a4e26a1ceda  themes/berserk-eclipse-illustrated.json
+94ef303e7cd11b468f03ab6ee3929d0cb4a6b3ccd17328d0c154b9308455eb7d  themes/berserk-eclipse-illustrated.json
