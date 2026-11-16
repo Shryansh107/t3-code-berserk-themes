@@ -1,6 +1,6 @@
 # Berserk themes for T3 Code
 
-Two original theme exports from T3 Code, packaged on 2026-11-16:
+Two theme exports from T3 Code, initially packaged on 2026-11-16:
 
 | Theme ID | File | Description |
 | --- | --- | --- |
@@ -8,6 +8,12 @@ Two original theme exports from T3 Code, packaged on 2026-11-16:
 | `berserk-eclipse-illustrated` | `themes/berserk-eclipse-illustrated.json` | Eclipse palette with custom CSS and embedded artwork. |
 
 The illustrated theme is self-contained: its artwork is embedded in the JSON's CSS. Keep the complete JSON intact.
+
+## Illustrated theme behavior
+
+The illustrated theme uses muted sidebar selection colors, removes the crimson thread hover bar, and softens the background glow and scrollbar thumb. Its pixel companion automatically crosses the composer bar, pauses at each end, and spits pixel fire immediately before each departure. Reduced motion disables the crossings and fire.
+
+This is a CSS-only theme: clicking or hovering cannot toggle and remember the companion's destination. No T3 Code app changes or scripts are required. The plain theme is unchanged.
 
 ## Reapply in another T3 Code instance
 
@@ -27,4 +33,4 @@ Themes apply to T3 Code web and desktop clients; mobile does not use these theme
 
 ## Contents and integrity
 
-`SHA256SUMS.txt` records the exact SHA-256 hashes of the original theme JSON files. The archive includes only those themes, this README, and the checksum list.
+`SHA256SUMS.txt` records the exact SHA-256 hashes of the current theme JSON files. The archive includes only those themes, this README, and the checksum list.
